@@ -24,9 +24,9 @@ I graduated from Automation engineer with Java and Selenium Bootcamp organized b
 [patika]: https://app.patika.dev/zeynephan
 [linkedin]: https://www.linkedin.com/in/zeynep-han-3b8359235/
 [codersclub]: https://codersclub.co/dev/clgnmmr
-[hackerrank]: https://www.hackerrank.com/kadir_tepecik191
-[instagram]: https://www.instagram.com/clgnmmr/
-[stackoverflow]: https://stackoverflow.com/users/18456843/kadir-tepecik
+[hackerrank]: https://www.hackerrank.com/zeynephan9906
+[instagram]: https://www.instagram.com/zeynepphann/
+[stackoverflow]: https://stackoverflow.com/users/19346587/zeynep-han
 <br/>
 <br/>
 <hr/> 
