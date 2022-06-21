@@ -34,7 +34,7 @@ I graduated from Automation engineer with Java and Selenium Bootcamp organized b
 ## 📜Certificates
 
 
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Yazılım]
+<!--[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Yazılım]
 Yazılım Test otomasyonu
 <br/>
 <br/>
@@ -55,7 +55,7 @@ CSS Temelleri
 <br/>
 
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][api]
-API ve API Testi
+API ve API Testi-->
 
 
 
