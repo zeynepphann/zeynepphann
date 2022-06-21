@@ -59,11 +59,10 @@ API ve API Testi
 
 
 
-[Yazılım]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCoX1Z70
-[html]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=JoNfrXBG2J#
-[git]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=zXzta0z6ON#
-[css]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=7rptZmL660#
-[api]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=nKqho6qXyb
+[Yazılım]:
+[git]:
+[css]:
+[api]:
 <br/>
 <br/>
 <hr/>
