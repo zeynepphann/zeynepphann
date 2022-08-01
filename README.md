@@ -37,20 +37,20 @@ I graduated from Automation engineer with Java and Selenium Bootcamp organized b
 <!--[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Yazılım]
 Yazılım Test otomasyonu
 <br/>
-<br/>
+<br/> -->
 
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][git]
 Versiyon Kontrolleri: Git ve GitHub
 <br/>
 <br/>
 
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][html]
-HTML5 ile Web Geliştirme
+[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][sql]
+SQL
 <br/>
 <br/>
 
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][css]
-CSS Temelleri
+[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Jenkins]
+Jenkins
 <br/>
 <br/>
 
@@ -59,11 +59,11 @@ API ve API Testi-->
 
 
 
-[Yazılım]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCoX1Z70
-[html]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=JoNfrXBG2J#
-[git]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=zXzta0z6ON#
-[css]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=7rptZmL660#
-[api]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=nKqho6qXyb
+<!--[Yazılım]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCoX1Z70-->
+[sql]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=BozfGEp8Wb
+[git]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=MAZUN8OKro
+[Jenkins]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=NowfrXwb4M
+[api]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=pKmhKP9vka
 <br/>
 <br/>
 <hr/>
