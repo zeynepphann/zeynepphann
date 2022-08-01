@@ -55,7 +55,7 @@ Jenkins
 <br/>
 
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][api]
-API ve API Testi-->
+API ve API Testi
 
 
 
