@@ -1,6 +1,6 @@
 ## 💫About Me :
 
-### Hi there 👋, my name is **Zeynep** :blush:😋
+### Hi there 👋, my name is **Zeynep** :blush:
 
 - 👀 I am interested in _Automation Engineer_
 - 🔭 I am currently working on Automation Engineer projects to improve my skills.
