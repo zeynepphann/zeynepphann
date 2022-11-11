@@ -4,7 +4,6 @@
 
 - 👀 I am interested in _Automation Engineer_
 - 🔭 I am currently working on Automation Engineer projects to improve my skills.
-- 🌱 I am currently learning Selenium
 - 👯 I want to collaborate on automation test project
 
 
