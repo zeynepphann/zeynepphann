@@ -96,7 +96,7 @@ API ve API Testi
 <a href="https://www.soapui.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SmartBear/soapui/next/SoapUI-oss-logo.png" alt="SoapUI" width="120" height="40"/> </a>
 
 </p>
-### ✍️Random Dev Quote
+ ✍️Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <hr/>
