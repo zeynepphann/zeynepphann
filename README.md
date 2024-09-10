@@ -14,10 +14,7 @@ I graduated from Automation engineer with Java and Selenium Bootcamp organized b
 
 [<img  width="40"  src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  align="left" >][linkedin]
 [<img  width="40" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg"  align="left" />][stackoverflow]
-[<img  width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpNPu5Y3h8WMB3i5gt6BM0pjQjkCniuvVUHL6Tg2OS_ZnxY_So0c5oTBcgrjf9B59krOk&usqp=CAU"  align="left" />][codersclub]
-[<img  width="40" src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png"  align="left" />][patika]
-[<img  width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbKJ-RLNVI9sCwf6Nlp1WpsnpNcHC6vCiCNg&usqp=CAU"  align="left" />][hackerrank]
-[<img  width="40" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg"  align="left" />][instagram]
+
 
 
 [patika]: https://app.patika.dev/zeynephan
